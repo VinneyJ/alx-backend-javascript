@@ -1,7 +1,3 @@
-// filter students in a specific city
-// use map to allocate new grades
-// return the objects
-
 function updateStudentGradeByCity(studentList, city, newGrades) {
   if (!Array.isArray(studentList)) {
     return [];
